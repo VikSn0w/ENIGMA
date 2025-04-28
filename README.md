@@ -7,16 +7,16 @@ Each version improves security, randomness, and timing in a different way.
 
 ## 🔥 Versions Overview
 
-| Feature                       | Version 1 | Version 2 | Version 3 |
-|:-------------------------------|:---------:|:---------:|:---------:|
+| Feature                       | Version 1 | Version 2 |     Version 3      |
+|:-------------------------------|:---------:|:---------:|:------------------:|
 | 🔒 **Security**                | ❌ Weak (MD5) | ✅ Strong (SHA-256) | ✅ Strong (SHA-256) |
-| 🎲 **Randomized Salt**         | ❌ No | ✅ Yes | ❌ No |
+| 🎲 **Randomized Salt**         | ❌ No | ✅ Yes |        ❌ No        |
 | ⏰ **Time Dependency**         | 📅 Per Day | ⚡ Per Execution | 🕒 Every N Minutes |
-| 🕹️ **Control over Lifespan**   | ❌ No | ❌ No | ✅ Yes |
-| 🏎️ **Performance**             | 🚀 Fast | 🚀 Fast | 🚀 Fast |
-| 🌎 **UTC-Based**               | ❌ Local Time | ❌ Local Time | ✅ Yes |
-| 📄 **Hash Algorithm**          | MD5 | SHA-256 | SHA-256 |
-
+| 🕹️ **Control over Lifespan**  | ❌ No | ❌ No |       ✅ Yes        |
+| 🏎️ **Performance**            | 🚀 Fast | 🚀 Fast |      🚀 Fast       |
+| 🌎 **UTC-Based**               | ❌ Local Time | ❌ Local Time |       ✅ Yes        |
+| 📄 **Hash Algorithm**          | MD5 | SHA-256 |      SHA-256       |
+| Year                           | 2022 | 2024 |       2025         |
 ---
 
 ## 🧪 Version Details
